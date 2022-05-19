@@ -4,7 +4,8 @@
  
  --------------------------------
  This is like a diary of my python learning journey on Udemy.
- I will upload my code daily (if possible) 
+ I will upload my code weekly
+ (if possible) 
  
  I hope this will be a productive and rewarding journey.
  
