@@ -10,8 +10,13 @@
  I hope this will be a productive and rewarding journey.
  
  ---------------------------------
- ## Context of Respo~
+ ## Content of Respository
  
- - daily learning code
- - some interesting small projects introduced in the Udemy course
- - some of my own random stuffs
+ ### daily_codes
+ python learning codes that I included (update weekly)
+ 
+ ### Projects
+ some interesting small projects I build myself (or watching guides)
+ 
+ ### Random stuffs
+ some of my own random stuffs
