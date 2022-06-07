@@ -1,0 +1,254 @@
+.top-container{
+  background-color: #CDF0EA;
+  padding: 20px;
+  height: 765px;
+  margin:0;
+
+}
+.mid-container{
+
+}
+.bottom-container{
+  background-color:#FFE59D;
+  padding: 20px;
+  height: 200px;
+  margin:0;
+
+}
+
+
+.top-cloud{
+  position:absolute;
+  margin-left:140px;
+}
+.bottom-cloud{
+  position:absolute;
+
+}
+.pro{
+  text-decoration: underline;
+}
+
+.CS{
+  text-decoration: underline;
+}
+
+.qiqi-pic {
+  border-radius:50%;
+  height: 170px;
+  width:260px;
+}
+.intro{
+  background-color: #CDDEFF;
+  padding:20px;
+  position: relative;
+  margin:20px auto 20px auto;
+  border-radius: 25px;
+  width:50%;
+
+}
+
+.programming {
+  height: 200px;
+  width:25%;
+  float:left;
+  margin-right:30px;
+  margin-top: 30px;
+}
+.language{
+  height: 200px;
+  width:25%;
+  float:right;
+  margin-left:30px;
+}
+.Personalities{
+  height: 200px;
+  width:25%;
+  float:left;
+  margin-right:30px;
+  margin-bottom: 60px;
+}
+.code{
+  height:200px;
+  width:200px;
+  position:absolute;
+  margin-left:200px;
+  margin-top:220px;
+}
+
+
+
+.skill-row1{
+  width:50%;
+  border-radius: 25px;
+  padding:20px;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  background-color: #EEB0B0;
+}
+
+
+.skill-row2{
+  width:50%;
+  border-radius: 25px;
+  padding:20px;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  background-color: #BDE6F1;
+}
+
+.skill-row3{
+  width:50%;
+  border-radius: 25px;
+  padding:20px;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  background-color: #CFFFDC;
+}
+
+.in-touch{
+  text-shadow: 2px 4px 4px rgba(46,91,173,0.6);
+}
+
+.ending{
+  text-align: center;
+}
+
+.contact_btn {
+  background: #3498db;
+  display: inline-block;
+  margin: 60px 0 60px 0;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.contact_btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #30e3cb,  #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb,  #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb,  #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb,  #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb,  #2bc4ad);
+  text-decoration: none;
+}
+
+.link{
+  text-decoration:underline;
+  color: #570A57;
+  font-size: 20px;
+  display: inline-block;
+  margin-bottom: 40px;
+}
+
+.paw{
+  height: 70px;
+  width:60px;
+  position: absolute;
+  display: inline-block;
+  float:right;
+  margin-left:200px;
+}
+
+.about{
+  font-family: "Montserrat" ,serif;
+  color:#66BFBF;
+}
+
+.work_img{
+  height:200px;
+  width:200px;
+  position:absolute;
+  margin-left: 300px;
+}
+
+.work1{
+  border-radius: 25px;
+  background-color: #F9CEEE;
+  padding:20px;
+  width:600px;
+  margin-left: 50px;
+}
+
+.work2{
+  margin-top: 30px;
+  border-radius: 25px;
+  background-color: #CCF3EE;
+  padding:20px;
+  width:600px;
+  margin-left: 600px;
+}
+
+.diabolo1{
+  background-color: #F9F3EE;
+  border-radius: 25px;
+  padding:20px;
+  width:600px;
+}
+
+.diabolo_img{
+  height:180px;
+  width:180px;
+  position:absolute;
+  margin-left: 100px;
+}
+
+.end_word{
+  font-size: 25px;
+}
+body {
+  margin-top:0px;
+  text-align: center;
+  font-family:"Merriweather" serif
+
+}
+
+ul{
+  text-align: left;
+
+}
+
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width:5%;
+
+
+}
+
+h1{
+  font-size:5.6rem;
+  margin:50px auto 0 auto;
+  width:40%;
+  font-family:"Sacramento" ,cursive;
+  color:#66BFBF;
+  line-height: 2;
+}
+
+h2{
+  font-family: "Kdam Thmor Pro" ,serif;
+  font-size:2.5rem;
+  font-weight:normal;
+  color:#590696;
+}
+
+h3{
+  font-family: "Montserrat" ,sans-serif;
+  text-align: left;
+  color:#11999E;
+}
